@@ -716,6 +716,15 @@ h2 {
     color: #333333!important;
 }
 
+.quote {
+    font-size: 20px;
+    font-style: italic;
+}
+
+.fgc {
+    font-size: 14px;
+}
+
 .med-width-whitespace {
     max-width: 800px;
     margin: auto auto auto auto;
